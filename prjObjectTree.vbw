@@ -1,0 +1,9 @@
+frmMain = 44, 58, 758, 578, C, 22, 29, 736, 550, C
+basMain = 66, 87, 780, 607, C
+clsMsSqlLogon = 0, 0, 714, 520, C
+frmMsSqlLogon = 44, 58, 758, 578, C, 22, 29, 736, 549, C
+clsMsSqlConnect = 66, 87, 780, 607, C
+basInifile = 66, 87, 758, 685, C
+basMessage = 0, 0, 692, 598, C
+clsObjectGrep = 44, 58, 736, 656, C
+frmObjectGrep = 110, 145, 802, 743, C, 132, 174, 824, 772, C
